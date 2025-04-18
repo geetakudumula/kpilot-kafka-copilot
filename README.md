@@ -6,8 +6,6 @@
 
 ---
 
-![KPilot Banner](https://huggingface.co/spaces/GeetaAIVisionary/KPilot/resolve/main/Geeta-KPilot.png)
-
 # 🚀 KPilot – Your Kafka Copilot
 
 Ask questions about Kafka CLI, tuning, and configurations – trained on real Kafka cheat sheets and docs!
