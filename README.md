@@ -1,3 +1,7 @@
+![LangChain](https://img.shields.io/badge/Built%20With-LangChain-blue)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 ---
 title: KPilot
 emoji: 🚀
