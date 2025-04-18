@@ -1,17 +1,9 @@
-![LangChain](https://img.shields.io/badge/Built%20With-LangChain-blue)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-orange)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
+[![Built with LangChain](https://img.shields.io/badge/Built%20With-LangChain-blue)](https://www.langchain.com/)
+[![UI: Streamlit](https://img.shields.io/badge/UI-Streamlit-orange)](https://streamlit.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
----
-title: KPilot
-emoji: 🚀
-colorFrom: indigo
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.44.1
-app_file: app.py
-pinned: false
-license: mit
+![KPilot – Kafka Copilot Banner](https://huggingface.co/spaces/GeetaAIVisionary/KPilot/resolve/main/Geeta-KPilot.png)
+
 ---
 
 ![KPilot Banner](https://huggingface.co/spaces/GeetaAIVisionary/KPilot/resolve/main/Geeta-KPilot.png)
