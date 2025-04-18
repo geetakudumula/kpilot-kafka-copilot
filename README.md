@@ -37,8 +37,14 @@ Ask questions about Kafka CLI, tuning, and configurations – trained on real Ka
 
 ---
 
+### 🚀 Try It Live
+
+👉 [KPilot on Hugging Face](https://huggingface.co/spaces/GeetaAIVisionary/KPilot)
+
+---
 ## 👩‍💻 About the Creator
 
 Built by [Geeta Kudumula](https://www.linkedin.com/in/geeta-kudumula-7963b990/), a Senior AI & Kafka Architect  
 👉 GitHub: [GeetaAIVisionary](https://github.com/GeetaAIVisionary)
+
 
